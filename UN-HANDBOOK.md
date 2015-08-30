@@ -1,4 +1,4 @@
-# Employee Un-Handbook - Bonusly
+# Employee Un-Handbook
 
 ## Preamble
 Ah, the employee handbook. Everyone has had the experience of receiving this [weighty tome full of policies, disclosures and legalese](http://www.shrm.org/TemplatesTools/Samples/Documents/Sample%20Handbook_FINAL.doc) on the first day of work. You have to sign a document to attest that you received it. And then you throw it in the recycling bin, unread.
