@@ -51,7 +51,7 @@ What does communication mean at Bonusly?
 
 We don’t just occasionally share our internal metrics - we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
 
-On an individual level, we communicate transparently to better understand and support one another by candidly sharing stories of our successes, failures, challenges, and interests.
+On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
 ### Work smarter, not harder
 At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](http://subtractioncapital.com/subtraction-growth/).
