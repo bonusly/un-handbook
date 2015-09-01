@@ -68,7 +68,7 @@ Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tec
 
 We work better when we include a diversity of opinions and ideas. This means encouraging input from everyone on the team, and also seeking to add people to the team from backgrounds that are traditionally underrepresented in our industry.
 
-Our dedication to diversity goes beyond simple non-discrimination. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
+Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
 
 ### Delight the customer
 This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
