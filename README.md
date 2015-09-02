@@ -8,9 +8,9 @@ At Bonusly we like to be agile ([lowercase 'a'](https://www.rallydev.com/blog/en
 Without further ado, here is the Bonusly Employee Un-Handbook.
 
 ## Table of Contents
-1. Values
-2. Time off
-3. Benefits
+1. [Values](https://github.com/bonusly/un-handbook#values)
+2. [Time off](https://github.com/bonusly/un-handbook#time-off)
+3. [Benefits](https://github.com/bonusly/un-handbook#benefits)
 
 ...yep, that’s it.
 
