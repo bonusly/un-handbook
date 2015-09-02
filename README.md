@@ -19,13 +19,13 @@ These [values are what we value](http://www.slideshare.net/reed2001/culture-1798
 
 The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people.
 
-* Go get results
-* Communicate
-* Default to transparency
-* Work smarter, not harder
-* Help out
-* Seek and embrace diversity
-* Delight the customer
+* [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
+* [Communicate](https://github.com/bonusly/un-handbook#communicate)
+* [Default to transparency](https://github.com/bonusly/un-handbook#default-to-transparency)
+* [Work smarter, not harder](https://github.com/bonusly/un-handbook#work-smarter-not-harder)
+* [Help out](https://github.com/bonusly/un-handbook#help-out)
+* [Seek and embrace diversity](https://github.com/bonusly/un-handbook#seek-and-embrace-diversity)
+* [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
 
 ### Go get results
 You can think of this value in two parts: “go get” and “results”. The first part speaks to our strong bias toward action. If there’s something you want to make, improve, change, or get rid of -- go do it. Need input or feedback? Chat with some colleagues on Slack. Need copywriting, engineering or design resources? Recruit those colleagues by rallying them to your cause. Whatever you do, avoid what [Netflix calls](http://www.slideshare.net/reed2001/culture-1798664/11-11_Impact_You_accomplish_amazing) “analysis paralysis”.
