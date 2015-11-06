@@ -88,6 +88,8 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 * Take occasional 3-day weekends.
 * Go away on a longer (week+) vacation where you fully disconnect from work.
 
+Bonusly also observes the following holidays: New Year, Martin Luther King, Jr. Day, George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving and Christmas. 
+
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
 
