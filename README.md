@@ -49,7 +49,7 @@ What does communication mean at Bonusly?
 ### Default to transparency
 (We took this phrasing from [Buffer](https://open.bufferapp.com/buffer-values/). Thanks, Buffer.)
 
-We don’t just occasionally share our internal metrics - we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
+We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
 
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
@@ -73,7 +73,7 @@ Our dedication to diversity goes beyond simply putting equal opportunity copy on
 ### Delight the customer
 This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
 
-At Bonusly, everyone focuses on the customer - their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers - we delight them.
+At Bonusly, everyone focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
 
 ## Time Off
 ### Vacation
