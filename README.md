@@ -91,13 +91,9 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 Bonusly also observes the following holidays: New Year, Martin Luther King, Jr. Day, George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving and Christmas. 
 
 ### Parental Leave
-One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
+One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-Because we do not limit vacation, we don’t have a prescribed amount of time off for parental leave. But you should absolutely take time. And you can structure that time any way you want.
-
-Here’s one example: Raphael took one week off immediately after the birth of his son. Then, for the next 11 weeks (his wife Nina’s maternity leave) he would frequently take mornings off or head home early. When Nina returned to work three days per week, Raphael took another chunk of leave (three days per week for five weeks).
-
-This is what worked for Raphael -- we will accommodate whatever works for you.
+Because we do not limit vacation, we don’t have a prescribed amount of time off for parental leave. But our expectation is that you take at least 10 weeks paid leave over your first 9 months with your child.
 
 ## Benefits
 ### Health/Dental/Vision Insurance
