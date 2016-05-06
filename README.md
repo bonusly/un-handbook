@@ -101,11 +101,12 @@ We offer 4 weeks paid parental leave. This is less than we would like, so as we 
 
 ## Benefits
 ### Health/Dental/Vision Insurance
-Bonusly covers 100% of employee health/dental/vision, and 50% of spouse/partner. We also subsidize 80% of health and wellness programs (e.g. CitiBike membership, gym memberships, etc) in the Bonusly rewards catalog and encourage employees to suggest new health & wellness rewards to add.
+Bonusly covers 100% of employee health/dental/vision, and 50% of spouse/partner. We also subsidize 80% of health and wellness programs (e.g. CitiBike membership, gym memberships, etc) up to $1000 per employee per year.
 
-Examples:
+Examples of health/wellness programs subsidized by Bonusly:
 * Citibike Annual Membership
-* Annual Gym Membership (Any gym, we’ll pay 80% of annual membership)
+* Annual Gym Membership
+* 20-class pass to Yoga Studio
 
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
