@@ -117,7 +117,7 @@ Bonusly will furnish you with up-to-date hardware of your choice to meet your er
 As with unlimited vacation, just stating “we’ll get you what you need!” isn’t good enough. Here are some examples/options:
 
 * Raphael (does development, sales, and operations out of NYC): MacBook Pro, ReadyDesk, external display, Apple wireless keyboard, Logitech wireless mouse.
-* George (content marketing and customer support in NYC): MacBook Air, rain design mStand, Apple wireless keyboard, Logitech wireless mouse.
+* George (content marketing in NYC): MacBook Air, rain design mStand, Apple wireless keyboard, Logitech wireless mouse.
 * John (development in Boulder): MacBook Pro, noise-canceling headphones.
 
 
