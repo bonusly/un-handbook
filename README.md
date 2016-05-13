@@ -8,11 +8,32 @@ At Bonusly we like to be agile ([lowercase 'a'](https://www.rallydev.com/blog/en
 Without further ado, here is the Bonusly Employee Un-Handbook.
 
 ## Table of Contents
-1. [Values](https://github.com/bonusly/un-handbook#values)
-2. [Time off](https://github.com/bonusly/un-handbook#time-off)
-3. [Benefits](https://github.com/bonusly/un-handbook#benefits)
+1. [The What and Why of Bonusly](https://github.com/bonusly/un-handbook#the-what-and-why-of-bonusly)
+2. [Values](https://github.com/bonusly/un-handbook#values)
+3. [Time off](https://github.com/bonusly/un-handbook#time-off)
+4. [Benefits](https://github.com/bonusly/un-handbook#benefits)
 
 ...yep, that’s it.
+
+## The What and Why of Bonusly
+#### At Bonusly, we believe...
+ * The era of rote and repetitive work is at an end. The jobs of today (& tomorrow) require:
+  * Creativity, to find novel solutions to difficult problems
+  * Responsiveness, to adapt to rapidly changing landscape of technologies, customers, and competitors
+ * The way we work must change radically. Current "best practices" are designed for jobs that no longer exist.
+
+#### This belief inspires us to...
+ * Maximize the conditions for creativity and responsiveness:
+  * Purpose - the sense that your job is important and you are having an impact
+  * Transparency - easy access to information about your team's goals and performance
+  * Feedback - on your performance so that you can learn and improve
+  * Community - the bond you share with colleagues as your strive toward a common goals
+  * Empowerment - the confidence and autonomy to experiment, learn, and then take action
+
+#### We work toward a future in which...
+ * Autonomy is maximized - there are few or no managers.
+ * Information is explicit and shared, never hoarded.
+ * Employees are encouraged to experiment, learn, and act.
 
 ## Values
 These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. These aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
