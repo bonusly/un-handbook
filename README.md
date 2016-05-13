@@ -8,14 +8,14 @@ At Bonusly we like to be agile ([lowercase 'a'](https://www.rallydev.com/blog/en
 Without further ado, here is the Bonusly Employee Un-Handbook.
 
 ## Table of Contents
-1. [The What and Why of Bonusly](https://github.com/bonusly/un-handbook#the-what-and-why-of-bonusly)
+1. [What We Believe](https://github.com/bonusly/un-handbook#what-we-believe)
 2. [Values](https://github.com/bonusly/un-handbook#values)
 3. [Time off](https://github.com/bonusly/un-handbook#time-off)
 4. [Benefits](https://github.com/bonusly/un-handbook#benefits)
 
 ...yep, that’s it.
 
-## The What and Why of Bonusly
+## What We Believe
 #### At Bonusly, we believe...
  * The era of rote and repetitive work is at an end. The jobs of today (& tomorrow) require:
   * Creativity, to find novel solutions to difficult problems
