@@ -129,6 +129,9 @@ Examples of health/wellness programs subsidized by Bonusly:
 * Annual Gym Membership
 * 20-class pass to Yoga Studio
 
+### Professional Developement
+Bonusly will subsidize 80% of approved professional development trainings.
+
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
 
