@@ -36,7 +36,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * Employees are encouraged to experiment, learn, and act.
 
 ## Values
-These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. These aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
+These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
 The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people.
 
@@ -109,16 +109,14 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 * Take occasional 3-day weekends.
 * Go away on a longer (week+) vacation where you fully disconnect from work.
 
-Bonusly also observes the following holidays: New Year, Martin Luther King, Jr. Day, George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving and Christmas. 
+Bonusly also observes the following holidays: New Year's Day, Martin Luther King Jr. Day, George Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving and Christmas. 
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-We offer 4 weeks paid parental leave. This is less than we would like, so as we grow we will increase the amount of paid leave. When the company hits certain revenue benchmarks, the # of paid weeks parental leave will increase thus:
- * $1.5MM ARR: 6 weeks
- * $3MM ARR: 8 weeks
- * $4.5MM ARR: 10 weeks
- * $6MM ARR: 12 weeks
+We offer 6 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we will increase the amount of paid leave. When the company hits certain revenue benchmarks, the # of paid weeks parental leave will increase thus:
+ * $1.5MM ARR: 9 weeks
+ * $3MM ARR: 12 weeks
 
 ## Benefits
 ### Health/Dental/Vision Insurance
@@ -128,6 +126,9 @@ Examples of health/wellness programs subsidized by Bonusly:
 * Citibike Annual Membership
 * Annual Gym Membership
 * 20-class pass to Yoga Studio
+
+### 401k with Employer Matching
+Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
 
 ### Professional Developement
 Bonusly will subsidize 80% of approved professional development trainings.
@@ -140,8 +141,8 @@ Bonusly will furnish you with up-to-date hardware of your choice to meet your er
 
 As with unlimited vacation, just stating “we’ll get you what you need!” isn’t good enough. Here are some examples/options:
 
-* Raphael (does development, sales, and operations out of NYC): MacBook Pro, ReadyDesk, external display, Apple wireless keyboard, Logitech wireless mouse.
-* George (content marketing in NYC): MacBook Air, rain design mStand, Apple wireless keyboard, Logitech wireless mouse.
+* Raphael (does product management, sales, and operations out of NYC): MacBook Pro, ReadyDesk, external display, Apple wireless keyboard, Logitech wireless mouse.
+* George (content marketing in Seattle): MacBook Air, rain design mStand, Apple wireless keyboard, Logitech wireless mouse.
 * John (development in Boulder): MacBook Pro, noise-canceling headphones.
 
 
