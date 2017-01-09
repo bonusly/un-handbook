@@ -1,7 +1,7 @@
 # Employee Un-Handbook
 
 ## Preamble
-Ah, the employee handbook. Everyone has had the experience of receiving this [weighty tome full of policies, disclosures and legalese](http://www.shrm.org/TemplatesTools/Samples/Documents/Sample%20Handbook_FINAL.doc) on the first day of work. You have to sign a document to attest that you received it. And then you throw it in the recycling bin, unread.
+Ah, the employee handbook. Everyone has had the experience of receiving a weighty tome full of policies, disclosures and legalese on the first day of work. You have to sign a document to attest that you received it. And then you throw it in the recycling bin, unread.
 
 At Bonusly we like to be agile ([lowercase 'a'](https://www.rallydev.com/blog/engineering/agile-capital-vs-agile-lowercase)) about everything we do. In that spirit, our handbook lays out our values and guiding principles (and a small number of progressive policies) -- in an open-source document that’s easy to read and understand. And because it’s hosted in a public GitHub repo, anyone can view how it changes over time and submit pull requests to update it.
 
