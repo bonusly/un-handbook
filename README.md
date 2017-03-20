@@ -56,7 +56,7 @@ The second part (“results”) speaks to the primacy of outputs. We don’t par
 Share the results from your work (see our values of “Communicate” and “Default to Transparency”): if they’re great, you’ll be swimming in microbonuses. If they weren’t what you hoped for, no big deal - get some input from the team and then keep executing until the results are great.
 
 ### Communicate
-Bonusly operates as a flat, distributed team. We currently have hubs in Boulder and NYC, but in all likelihood the company will become more distributed over time. Communication is important on any team, but at Bonusly it’s essential to our success.
+Bonusly operates with little hierarchy. Communication is important on any team, but at Bonusly it’s essential to our success.
 
 What does communication mean at Bonusly?
 
@@ -115,6 +115,7 @@ Bonusly also observes the following holidays: New Year's Day, Martin Luther King
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
 We offer 6 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we will increase the amount of paid leave. When the company hits certain revenue benchmarks, the # of paid weeks parental leave will increase thus:
+ * ~~$750k ARR: 6 weeks~~
  * $1.5MM ARR: 9 weeks
  * $3MM ARR: 12 weeks
 
