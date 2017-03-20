@@ -134,7 +134,7 @@ Examples of health/wellness programs subsidized by Bonusly:
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
 
 ### Professional Developement
-Bonusly will subsidize 80% of approved professional development trainings.
+Bonusly will subsidize 80% of approved professional development expenses.
 
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
