@@ -102,7 +102,7 @@ We want you to take whatever time you need to refresh and recharge. Many startup
 
 Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 3 weeks** (15 days) vacation per year. To that end, we track but do not limit PTO.
 
-We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. [Here are some examples](https://docs.google.com/spreadsheets/d/1v4F536AbdJLeAAgCFr7nTV1UAFEvOkI8zT3jLWzXV4A/edit?usp=sharing) of what current Bonusly employees do, which we encourage you to do as well:
+We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
 
 * Travel while still working about half time (a “workcation”).
 * Take breaks on nice days to go hiking/biking.
