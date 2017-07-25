@@ -31,7 +31,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
   * Empowerment - the confidence and autonomy to experiment, learn, and then take action
 
 #### We work toward a future in which...
- * Autonomy is maximized - there are few or no managers.
+ * Autonomy & ownership is maximized
  * Information is explicit and shared, never hoarded.
  * Employees are encouraged to experiment, learn, and act.
 
