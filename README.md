@@ -82,6 +82,8 @@ Working smarter also means knowing yourself and how you work best. Where do you 
 ### Help out
 Share knowledge, teach skills, and otherwise help out your colleagues whenever possible. “Not my job” isn’t in our vocabulary. Also, helping out doesn’t mean waiting to be asked for help. You proactively offer help and support whenever it seems appropriate. You give selflessly of your time and expertise to help others on the team.
 
+Helpfulness also comes into play with the level of conscientiousness and proactivity used to identify and resolve problems. Our friends at CB Insights have this great [framework for levels of helpfulness](https://slack-files.com/T029BMC1C-F6HNVKC8Y-e2cfa43f7d).
+
 Of course, we all get busy from time to time, so occasionally the answer might be “Not now, but have some free time later today” or “after I ship this big feature tomorrow”.
 
 ### Seek and embrace diversity
