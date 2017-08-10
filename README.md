@@ -144,15 +144,6 @@ Bonusly will subsidize 80% of approved professional development expenses.
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
 
-### Tools
-Bonusly will furnish you with up-to-date hardware of your choice to meet your ergonomic, computing and lifestyle needs.
-
-As with unlimited vacation, just stating “we’ll get you what you need!” isn’t good enough. Here are some examples/options:
-
-* Raphael (does product management, sales, and operations out of NYC): MacBook Pro, ReadyDesk, external display, Apple wireless keyboard, Logitech wireless mouse.
-* George (content marketing in Seattle): MacBook Air, rain design mStand, Apple wireless keyboard, Logitech wireless mouse.
-* John (development in Boulder): MacBook Pro, noise-canceling headphones.
-
 
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.*
