@@ -121,6 +121,8 @@ We offer 9 weeks paid parental leave, to be taken anytime during your child's fi
  * ~~$1.5MM ARR: 9 weeks~~
  * $3MM ARR: 12 weeks
 
+Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
+
 ## Benefits
 ### Health/Dental/Vision Insurance
 Bonusly covers 100% of employee health/dental/vision, and 50% of spouse/partner.
