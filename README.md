@@ -102,7 +102,7 @@ At Bonusly, everyone focuses on the customer -- their needs, challenges, feedbac
 ### Vacation
 We want you to take whatever time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
 
-Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 3 weeks** (15 days) vacation per year. To that end, we track but do not limit PTO.
+Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 3 weeks** (15 days) vacation per year.
 
 We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
 
