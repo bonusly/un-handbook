@@ -100,9 +100,9 @@ At Bonusly, everyone focuses on the customer -- their needs, challenges, feedbac
 
 ## Time Off
 ### Vacation
-We want you to take whatever time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
+We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
 
-Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 3 weeks** (15 days) vacation per year.
+Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 2 weeks** (10 days) vacation per year.
 
 We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
 
@@ -116,30 +116,19 @@ Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays),
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we will increase the amount of paid leave. When the company hits certain revenue benchmarks, the # of paid weeks parental leave will increase thus:
- * ~~$750k ARR: 6 weeks~~
- * ~~$1.5MM ARR: 9 weeks~~
- * $3MM ARR: 12 weeks
+We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you.
 
 Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
 
 ## Benefits
 ### Health/Dental/Vision Insurance
-Bonusly covers 100% of employee health/dental/vision, and 50% of spouse/partner.
-
-### Wellness Program
-We subsidize 80% of health and wellness programs (e.g. CitiBike membership, gym memberships, etc) up to $1000 per employee per year.
-
-Examples of health/wellness programs subsidized by Bonusly:
-* Citibike Annual Membership
-* Annual Gym Membership
-* 20-class pass to Yoga Studio
+Bonusly offers generous health/dental/vision benefits that are significantly more comprehensive than industry average.
 
 ### 401k with Employer Matching
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
 
 ### Professional Developement
-Bonusly will subsidize 80% of approved professional development expenses.
+Bonusly will subsidize 80% of approved professional development expenses, up to $200 per employee per year.
 
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
