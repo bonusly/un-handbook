@@ -102,7 +102,7 @@ At Bonusly, everyone focuses on the customer -- their needs, challenges, feedbac
 ### Vacation
 We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
 
-Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 2 weeks** (10 days) vacation per year.
+Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
 
 We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
 
@@ -110,6 +110,8 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 * Take breaks on nice days to go hiking/biking.
 * Take occasional 3-day weekends.
 * Go away on a longer (week+) vacation where you fully disconnect from work.
+
+Can you truly take unlimited vacation? Of course not. You cannot expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off up to 25 days per year. Can you take more than that? Sure, but we'd recommend having a coversation with your manager about it ahead of time.
 
 Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), plus the day after Thanksgiving.
 
