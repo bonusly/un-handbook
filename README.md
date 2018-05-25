@@ -129,7 +129,7 @@ Bonusly offers generous health/dental/vision benefits that are significantly mor
 ### 401k with Employer Matching
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
 
-### Professional Developement
+### Professional Development
 Bonusly will subsidize 80% of approved professional development expenses, up to $200 per employee per year.
 
 ### Wellness
