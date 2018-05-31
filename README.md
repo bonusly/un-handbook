@@ -53,10 +53,10 @@ You can think of this value in two parts: “go get” and “results”. The fi
 
 The second part (“results”) speaks to the primacy of outputs. We don’t particularly value inputs - how the work gets done. What matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
 
-Share the results from your work (see our values of “Communicate” and “Default to Transparency”): if they’re great, you’ll be swimming in microbonuses. If they weren’t what you hoped for, no big deal - get some input from the team and then keep executing until the results are great.
+Share the results from your work (see our values of “Communicate” and “Default to Transparency”): if they’re great, you’ll be swimming in bonuses. If they weren’t what you hoped for, no big deal - get some input from the team and then keep executing until the results are great.
 
 ### Communicate
-Bonusly operates with little hierarchy. Communication is important on any team, but at Bonusly it’s essential to our success.
+We hire team members who we believe will make us smarter and better at what we're trying to do. In order to succeed at becoming smarter and better as a whole, it's essential for us to communicate.
 
 What does communication mean at Bonusly?
 
@@ -111,14 +111,14 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 * Take occasional 3-day weekends.
 * Go away on a longer (week+) vacation where you fully disconnect from work.
 
-Can you truly take unlimited vacation? Of course not. You cannot expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off up to 25 days per year. Can you take more than that? Sure, but we'd recommend having a coversation with your manager about it ahead of time.
+Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off up to 25 days per year. Can you take more than that? Sure, but we'd recommend having a coversation with your manager about it ahead of time.
 
 Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), plus the day after Thanksgiving.
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you.
+We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we'll increase the amount of paid leave.
 
 Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
 
@@ -139,7 +139,7 @@ Bonusly will subsidize 80% of approved wellness expenses (e.g. gym membership, y
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multi-modal/bus/ecopass/). Remote employees are eligible to receive a 25% reimbursement on a monthly transit pass.
 
 ### Bonusly for Bonusly Employees
-Every employee has a generous budget to give out in micro-bonuses to their colleagues. In addition to gift cards and charitable donations, employees can redeem earnings for travel between Bonusly locations (currently Boulder and NYC), Bonusly shwag, tickets to local events, and more. Please suggest new rewards to add to our catalog!
+Every employee has a generous budget to give out in bonuses to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
 
 
 
