@@ -124,7 +124,7 @@ Also, new parents (mothers or fathers) can bring their immobile infants to work 
 
 ## Benefits
 ### Health/Dental/Vision Insurance
-Bonusly offers generous health/dental/vision benefits that are significantly more comprehensive than industry average.
+Bonusly offers generous health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
 
 ### 401k with Employer Matching
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
