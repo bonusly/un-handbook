@@ -75,7 +75,7 @@ We don’t just occasionally share our internal metrics -- we make them availabl
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
 ### Work smarter, not harder
-At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](http://subtractioncapital.com/subtraction-growth/).
+At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](https://medium.com/@SubtractionCap/subtraction-growth-6ef5c8ad42f6).
 
 Working smarter also means knowing yourself and how you work best. Where do you work best? With what tools? At what times? How much R&R do you need in order to perform at your best? What skills/knowledge do you need to acquire in order to take your output to the next level? At Bonusly, you have the freedom, and the responsibility, to answer these questions for yourself.
 
