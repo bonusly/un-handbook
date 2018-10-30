@@ -13,8 +13,6 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 3. [Time off](https://github.com/bonusly/un-handbook#time-off)
 4. [Benefits](https://github.com/bonusly/un-handbook#benefits)
 
-...yep, that’s it.
-
 ## What We Believe
 #### At Bonusly, we believe...
  * The era of rote and repetitive work is at an end. The jobs of today (& tomorrow) require:
@@ -31,7 +29,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
    * Empowerment - the confidence and autonomy to experiment, learn, and then take action
 
 #### We work toward a future in which...
- * Autonomy & ownership is maximized
+ * Autonomy & ownership is maximized.
  * Information is explicit and shared, never hoarded.
  * Employees are encouraged to experiment, learn, and act.
 
@@ -41,10 +39,9 @@ These [values are what we value](http://www.slideshare.net/reed2001/culture-1798
 The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people.
 
 * [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
-* [Communicate](https://github.com/bonusly/un-handbook#communicate)
+* [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
 * [Default to transparency](https://github.com/bonusly/un-handbook#default-to-transparency)
-* [Work smarter, not harder](https://github.com/bonusly/un-handbook#work-smarter-not-harder)
-* [Help out](https://github.com/bonusly/un-handbook#help-out)
+* [Work smarter](https://github.com/bonusly/un-handbook#work-smarter-not-harder)
 * [Seek and embrace diversity](https://github.com/bonusly/un-handbook#seek-and-embrace-diversity)
 * [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
 
@@ -55,7 +52,7 @@ The second part (“results”) speaks to the primacy of outputs. We don’t par
 
 Share the results from your work (see our values of “Communicate” and “Default to Transparency”): if they’re great, you’ll be swimming in bonuses. If they weren’t what you hoped for, no big deal - get some input from the team and then keep executing until the results are great.
 
-### Communicate
+### Be an excellent teammate
 We hire team members who we believe will make us smarter and better at what we're trying to do. In order to succeed at becoming smarter and better as a whole, it's essential for us to communicate.
 
 What does communication mean at Bonusly?
@@ -74,17 +71,10 @@ We don’t just occasionally share our internal metrics -- we make them availabl
 
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
-### Work smarter, not harder
+### Work smarter
 At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](https://medium.com/@SubtractionCap/subtraction-growth-6ef5c8ad42f6).
 
 Working smarter also means knowing yourself and how you work best. Where do you work best? With what tools? At what times? How much R&R do you need in order to perform at your best? What skills/knowledge do you need to acquire in order to take your output to the next level? At Bonusly, you have the freedom, and the responsibility, to answer these questions for yourself.
-
-### Help out
-Share knowledge, teach skills, and otherwise help out your colleagues whenever possible. “Not my job” isn’t in our vocabulary. Also, helping out doesn’t mean waiting to be asked for help. You proactively offer help and support whenever it seems appropriate. You give selflessly of your time and expertise to help others on the team.
-
-Helpfulness also comes into play with the level of conscientiousness and proactivity used to identify and resolve problems. Our friends at CB Insights have this great [framework for levels of helpfulness](https://slack-files.com/T029BMC1C-F6HNVKC8Y-e2cfa43f7d).
-
-Of course, we all get busy from time to time, so occasionally the answer might be “Not now, but have some free time later today” or “after I ship this big feature tomorrow”.
 
 ### Seek and embrace diversity
 Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
