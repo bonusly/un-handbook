@@ -15,9 +15,11 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 
 ## What We Believe
 #### At Bonusly, we believe...
+ * Success in business is determined by **people**, **working on teams**, to **solve novel problems**.
  * The era of rote and repetitive work is at an end. The jobs of today (& tomorrow) require:
-   * Creativity, to find novel solutions to difficult problems
-   * Responsiveness, to adapt to rapidly changing landscape of technologies, customers, and competitors
+   * Collaboration, to leverage unique perspectives and expertise across domains.
+   * Creativity, to find novel solutions to difficult problems.
+   * Responsiveness, to adapt to rapidly changing landscape of technologies, customers, and competitors.
  * The way we work must change radically. Current "best practices" are designed for jobs that no longer exist.
 
 #### This belief inspires us to...
@@ -56,7 +58,7 @@ You can think of this value in two parts: “go get” and “results”. The fi
 
 The second part (“results”) speaks to the primacy of outputs. We don’t particularly value inputs - how the work gets done. What matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
 
-In practice, this is challenging. In order to go get results, we must take responsibility to understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of "Default to Transparency" should ensure that the information you need is available to you, but if it isn't, go seek it out.
+In practice, this is challenging. In order to go get results, we must understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of "Default to Transparency" should ensure that the information you need is available to you, but if it isn't, go seek it out.
 
 ### Be an excellent teammate
 * Be proactive and assertive / Ask for what you need
@@ -68,16 +70,7 @@ In practice, this is challenging. In order to go get results, we must take respo
 * Teach & encourage
 * Solve problems together
 
-We hire team members who we believe will make us smarter and better at what we're trying to do. In order to succeed at becoming smarter and better as a whole, it's essential for us to communicate.
 
-What does communication mean at Bonusly?
-
-* You actively solicit input on work you’re doing.
-* You listen before giving your opinion.
-* You contribute your ideas.
-* You keep your cool in stressful interactions.
-* You treat your colleagues with respect at all times, especially times of disagreement.
-* You have the courage to contribute on topics, even if they are not in your realm of responsibilities or expertise.
 
 ### Default to transparency
 * Take responsibility to share information that others need (with context)
