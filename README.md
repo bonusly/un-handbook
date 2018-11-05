@@ -49,7 +49,6 @@ The initial list of these values were created at our first company retreat, when
 
 ### Go get results
 * Bias toward action
-* Take initiative
 * Try things that might not work
 * Focus on results, not inputs
 * Take responsibility for understanding context and goals
@@ -61,16 +60,16 @@ The second part (“results”) speaks to the primacy of outputs. We don’t par
 In practice, this is challenging. In order to go get results, we must understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of "Default to Transparency" should ensure that the information you need is available to you, but if it isn't, go seek it out.
 
 ### Be an excellent teammate
-* Be proactive and assertive / Ask for what you need
+* Be proactive and assertive
 * Solicit feedback and input
-* Be radically candid
+* Be [radically candid](https://www.radicalcandor.com/about-radical-candor/)
 * Listen first
 * Assume the best
 * Be there for others
 * Teach & encourage
 * Solve problems together
 
-
+We believe that success is achieved by people working on teams. As such, it is critical that we be the best teammates possible to one another. This means being proactive and assertive in your communication: asking for what you need, providing candid, constructive feedback, and voicing your opinions and ideas. It also means listening to, supporting, and encouraging your colleagues -- especially at times of disagreement and stress.
 
 ### Default to transparency
 * Take responsibility to share information that others need (with context)
@@ -82,16 +81,17 @@ In practice, this is challenging. In order to go get results, we must understand
 
 We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
 
+Just posting information isn't enough, however. Sharing _context_ is also necessary. So, we have monthly all-hands meetings and post explainers in Slack so that team members don't just see our numbers, priorities, and goals, but understand what they mean.
+
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
 ### Work smarter
 * Question why/how we do things
 * Iterate on current processes
-* Optimize how you work (hours, setup, take time off to recharge, etc)
-* Consider trade-offs
+* Optimize how you work
 * Always be learning
 * Make data-informed decisions (when possible)
-* Help us continue to “punch above our weight”
+* Figure out how we can "punch above our weight"
 * Embrace & learn from negative results
 
 At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](https://medium.com/@SubtractionCap/subtraction-growth-6ef5c8ad42f6).
