@@ -101,11 +101,9 @@ Working smarter also means knowing yourself and how you work best. Where do you 
 ### Seek and embrace diversity
 * Actively learn about and work to mitigate your own biases
 * Make sure our product is inclusive
-* Seek representation & inclusion (even at the expense of speed, results)
+* Seek representation & inclusion (even at the expense of other goals)
 * Build inclusivity & bias mitigation into our processes
-* Make small improvements every day
 * Expect it to be hard and uncomfortable sometimes
-* Everyone’s responsibility
 
 Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
 
@@ -114,12 +112,10 @@ We work better when we include a diversity of opinions and ideas. This means enc
 Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
 
 ### Delight the customer
-* Provide a delightful experience / put good things into the world
-* Make it fun
+* Provide a delightful experience
+* Make it fun & easy
 * Provide value over the long term
-* Build a lasting relationship
-* Listen to customers
-* Take time to empathize with the customer
+* Take time to listen to and empathize with the customer
 * Be accountable for how people experience our product and company
 
 This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
