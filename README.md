@@ -46,13 +46,27 @@ The initial list of these values were created at our first company retreat, when
 * [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
 
 ### Go get results
+* Bias toward action
+* Take initiative
+* Try things that might not work
+* Focus on results, not inputs
+* Take responsibility for understanding context and goals
+
 You can think of this value in two parts: “go get” and “results”. The first part speaks to our strong bias toward action. If there’s something you want to make, improve, change, or get rid of -- go do it. Need input or feedback? Chat with some colleagues on Slack. Need copywriting, engineering or design resources? Recruit those colleagues by rallying them to your cause. Whatever you do, avoid what [Netflix calls](http://www.slideshare.net/reed2001/culture-1798664/11-11_Impact_You_accomplish_amazing) “analysis paralysis”.
 
 The second part (“results”) speaks to the primacy of outputs. We don’t particularly value inputs - how the work gets done. What matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
 
-Share the results from your work (see our values of “Communicate” and “Default to Transparency”): if they’re great, you’ll be swimming in bonuses. If they weren’t what you hoped for, no big deal - get some input from the team and then keep executing until the results are great.
 
 ### Be an excellent teammate
+* Be proactive and assertive / Ask for what you need
+* Solicit feedback and input
+* Be radically candid
+* Listen first
+* Assume the best
+* Be there for others
+* Teach & encourage
+* Solve problems together
+
 We hire team members who we believe will make us smarter and better at what we're trying to do. In order to succeed at becoming smarter and better as a whole, it's essential for us to communicate.
 
 What does communication mean at Bonusly?
@@ -65,6 +79,11 @@ What does communication mean at Bonusly?
 * You have the courage to contribute on topics, even if they are not in your realm of responsibilities or expertise.
 
 ### Default to transparency
+* Take responsibility to share information that others need (with context)
+* Share what you’ve learned
+* Be vulnerable - talk about mistakes, failures, and bad news
+* Create an environment where it’s easy to get information
+
 (We took this phrasing from [Buffer](https://open.bufferapp.com/buffer-values/). Thanks, Buffer.)
 
 We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
@@ -72,11 +91,28 @@ We don’t just occasionally share our internal metrics -- we make them availabl
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
 ### Work smarter
+* Question why/how we do things
+* Iterate on current processes
+* Optimize how you work (hours, setup, take time off to recharge, etc)
+* Consider trade-offs
+* Always be learning
+* Make data-informed decisions (when possible)
+* Help us continue to “punch above our weight”
+* Embrace & learn from negative results
+
 At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](https://medium.com/@SubtractionCap/subtraction-growth-6ef5c8ad42f6).
 
 Working smarter also means knowing yourself and how you work best. Where do you work best? With what tools? At what times? How much R&R do you need in order to perform at your best? What skills/knowledge do you need to acquire in order to take your output to the next level? At Bonusly, you have the freedom, and the responsibility, to answer these questions for yourself.
 
 ### Seek and embrace diversity
+* Actively learn about and work to mitigate your own biases
+* Make sure our product is inclusive
+* Seek representation & inclusion (even at the expense of speed, results)
+* Build inclusivity & bias mitigation into our processes
+* Make small improvements every day
+* Expect it to be hard and uncomfortable sometimes
+* Everyone’s responsibility
+
 Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
 
 We work better when we include a diversity of opinions and ideas. This means encouraging input from everyone on the team, and also seeking to add people to the team from backgrounds that are traditionally underrepresented in our industry.
@@ -84,6 +120,14 @@ We work better when we include a diversity of opinions and ideas. This means enc
 Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
 
 ### Delight the customer
+* Provide a delightful experience / put good things into the world
+* Make it fun
+* Provide value over the long term
+* Build a lasting relationship
+* Listen to customers
+* Take time to empathize with the customer
+* Be accountable for how people experience our product and company
+
 This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
 
 At Bonusly, everyone focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
