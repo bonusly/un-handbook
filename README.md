@@ -56,6 +56,7 @@ You can think of this value in two parts: “go get” and “results”. The fi
 
 The second part (“results”) speaks to the primacy of outputs. We don’t particularly value inputs - how the work gets done. What matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
 
+In practice, this is challenging. In order to go get results, we must take responsibility to understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of "Default to Transparency" should ensure that the information you need is available to you, but if it isn't, go seek it out.
 
 ### Be an excellent teammate
 * Be proactive and assertive / Ask for what you need
