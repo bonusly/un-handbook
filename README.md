@@ -43,7 +43,7 @@ The initial list of these values were created at our first company retreat, when
 * [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
 * [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
 * [Default to transparency](https://github.com/bonusly/un-handbook#default-to-transparency)
-* [Work smarter](https://github.com/bonusly/un-handbook#work-smarter-not-harder)
+* [Work smarter](https://github.com/bonusly/un-handbook#work-smarter)
 * [Seek and embrace diversity](https://github.com/bonusly/un-handbook#seek-and-embrace-diversity)
 * [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
 
