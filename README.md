@@ -133,7 +133,7 @@ On an individual level, you can help contribute first by learning about how priv
 Embodying this value means:
 * Provide a delightful experience
 * Make it fun & easy
-* Provide value over the long term
+* Deliver value over the long term
 * Take time to listen to and empathize with the customer
 * Be accountable for how people experience our product and company
 
