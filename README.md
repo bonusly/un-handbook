@@ -38,7 +38,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 ## Values
 These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
-The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people.
+The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people. By Q3 2018 we had grown to 22 people, and decided it was time for an update. We spent a half-day soliciting input from the entire team, which the leadership team then synthesized into an updated set of values that was shared with the whole company in November 2018.
 
 * [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
 * [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
@@ -48,18 +48,23 @@ The initial list of these values were created at our first company retreat, when
 * [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
 
 ### Go get results
+
+Embodying this value means:
 * Bias toward action
 * Try things that might not work
 * Focus on results, not inputs
+* Release, iterate, improve
 * Take responsibility for understanding context and goals
 
 You can think of this value in two parts: “go get” and “results”. The first part speaks to our strong bias toward action. If there’s something you want to make, improve, change, or get rid of -- go do it. Need input or feedback? Chat with some colleagues on Slack. Need copywriting, engineering or design resources? Recruit those colleagues by rallying them to your cause. Whatever you do, avoid what [Netflix calls](http://www.slideshare.net/reed2001/culture-1798664/11-11_Impact_You_accomplish_amazing) “analysis paralysis”.
 
-The second part (“results”) speaks to the primacy of outputs. We don’t particularly value inputs - how the work gets done. What matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
+The second part (“results”) speaks to the primacy of outputs. We care about inputs to the extent that we want to [Work smarter](https://github.com/bonusly/un-handbook#work-smarter) and be finding more efficient, effective ways to produce better outputs. Beyond that, what matters is getting the work done and measuring the impact of this work after completing it. Do the results match up with your goals? Is there more room for improvement? Were there unintended consequences (good or bad)?
 
-In practice, this is challenging. In order to go get results, we must understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of "Default to Transparency" should ensure that the information you need is available to you, but if it isn't, go seek it out.
+In practice, this is challenging. In order to go get results, we must understand current goals and priorities, and cost/benefit tradeoffs (ie. go for the quick win that costs little, or spend more time on a robust solution?). Our core value of [Default to transparency](https://github.com/bonusly/un-handbook#default-to-transparency) should ensure that the information you need is available to you, but if it isn't, go seek it out.
 
 ### Be an excellent teammate
+
+Embodying this value means:
 * Be proactive and assertive
 * Solicit feedback and input
 * Be [radically candid](https://www.radicalcandor.com/about-radical-candor/)
@@ -69,23 +74,31 @@ In practice, this is challenging. In order to go get results, we must understand
 * Teach & encourage
 * Solve problems together
 
-We believe that success is achieved by people working on teams. As such, it is critical that we be the best teammates possible to one another. This means being proactive and assertive in your communication: asking for what you need, providing candid, constructive feedback, and voicing your opinions and ideas. It also means listening to, supporting, and encouraging your colleagues -- especially at times of disagreement and stress.
+We believe that success is achieved by people working on teams. As such, it is critical that we be the best teammates possible to one another. This means being proactive and assertive in your communication: asking for what you need, providing candid, constructive feedback, and voicing your opinions and ideas. It also means listening to, supporting, and encouraging your colleagues -- especially at times of disagreement and stress. And last but not least, it means having fun with your teammates!
 
 ### Default to transparency
-* Take responsibility to share information that others need (with context)
+
+Embodying this value means:
+* Take responsibility to share information that may help others (with context)
 * Share what you’ve learned
 * Be vulnerable - talk about mistakes, failures, and bad news
 * Create an environment where it’s easy to get information
 
 (We took this phrasing from [Buffer](https://open.bufferapp.com/buffer-values/). Thanks, Buffer.)
 
-We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, burn, churn, runway, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
+In order to act on our values, particularly those of [Work smarter](https://github.com/bonusly/un-handbook#work-smarter) and [Go get results](https://github.com/bonusly/un-handbook#go-get-results), individuals must be equipped with the information they need to make good decisions. That information consists of metrics, results and other data, as well as the contextual information to help them understand that data and use it to make good decisions.
+
+We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, churn, LTV, response time, uptime, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
 
 Just posting information isn't enough, however. Sharing _context_ is also necessary. So, we have monthly all-hands meetings and post explainers in Slack so that team members don't just see our numbers, priorities, and goals, but understand what they mean.
 
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
+In discussing this value, there was some concern that "default" made it sound too passive. In discussing alternative phrasing, we ultimately came to feel that "default" is the appropriate word. As passionate product people, we understand the power of defaults. Too make something the default means that people will always do that thing, _unless there is a very compelling reason not too_. We understand that some information must be kept confidential or compartmentalized. But this value ensures that sharing is the rule, concealing is the exception.
+
 ### Work smarter
+
+Embodying this value means:
 * Question why/how we do things
 * Iterate on current processes
 * Optimize how you work
@@ -99,6 +112,8 @@ At Bonusly, we’re able to move quickly and effectively with a very small team 
 Working smarter also means knowing yourself and how you work best. Where do you work best? With what tools? At what times? How much R&R do you need in order to perform at your best? What skills/knowledge do you need to acquire in order to take your output to the next level? At Bonusly, you have the freedom, and the responsibility, to answer these questions for yourself.
 
 ### Seek and embrace diversity
+
+Embodying this value means:
 * Actively learn about and work to mitigate your own biases
 * Make sure our product is inclusive
 * Seek representation & inclusion (even at the expense of other goals)
@@ -111,7 +126,11 @@ We work better when we include a diversity of opinions and ideas. This means enc
 
 Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
 
+On an individual level, you can help contribute first by learning about how privilege and bias can work to exclude certain voices in the workplace. For example, [meetings are often a situation in which women, minorities, and people with reserved personalities struggle to be heard](https://hbr.org/2014/06/women-find-your-voice). If you are someone who feels comfortable and confident in meetings and usually speaks early and often, try asking for input from your colleagues before giving your opinion. Encourage others who do speak up by practicing active listening and thanking them for their input.
+
 ### Delight the customer
+
+Embodying this value means:
 * Provide a delightful experience
 * Make it fun & easy
 * Provide value over the long term
@@ -120,7 +139,9 @@ Our dedication to diversity goes beyond simply putting equal opportunity copy on
 
 This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
 
-At Bonusly, everyone focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
+From the very start of Bonusly, we've focused on building a product that our customers find easy, fun, and useful. We pride ourselves on making the work a more fun, fulfilling, and positive experience for all our users - day after day, month after month, and year after year.
+
+To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
 
 ## Time Off
 ### Vacation
