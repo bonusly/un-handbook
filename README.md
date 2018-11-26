@@ -23,7 +23,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * The way we work must change radically. Current "best practices" are designed for jobs that no longer exist.
 
 #### This belief inspires us to...
- * Maximize the conditions for creativity and responsiveness:
+ * Maximize the conditions for collaboration, creativity, and responsiveness:
    * Purpose - the sense that your job is important and you are having an impact
    * Transparency - easy access to information about your team's goals and performance
    * Feedback - on your performance so that you can learn and improve
