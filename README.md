@@ -94,7 +94,7 @@ Just posting information isn't enough, however. Sharing _context_ is also necess
 
 On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
 
-In discussing this value, there was some concern that "default" made it sound too passive but we ultimately came to feel that "default" is the appropriate word. As dedicated product people, we understand the power of defaults. Too make something the default means that people will always do that thing, _unless there is a very compelling reason not too_. We understand that some information must be kept confidential or compartmentalized. But this value ensures that sharing is the rule, concealing is the exception.
+In discussing this value, there was some concern that "default" made it sound too passive but we ultimately came to feel that "default" is the appropriate word. As dedicated product people, we understand the power of defaults. To make something the default means that people will always do that thing, _unless there is a very compelling reason not to_. We understand that some information must be kept confidential or compartmentalized. But this value ensures that sharing is the rule, concealing is the exception.
 
 ### Work smarter
 
