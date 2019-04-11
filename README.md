@@ -172,7 +172,7 @@ Also, new parents (mothers or fathers) can bring their immobile infants to work 
 Bonusly offers generous health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
 
 ### 401k with Employer Matching
-Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/).
+Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/). Bonusly matches 100% of the first 3% contributed, and 50% of the next 2% (for a max employer contribution of 4%).
 
 ### Professional Development
 Bonusly will subsidize 80% of approved professional development expenses, up to $200 per employee per year.
