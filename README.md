@@ -175,10 +175,10 @@ Bonusly offers generous health/dental/vision benefits that are significantly mor
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/). Bonusly matches 100% of the first 3% contributed, and 50% of the next 2% (for a max employer contribution of 4%).
 
 ### Professional Development
-Bonusly will subsidize 80% of approved professional development expenses, up to $200 per employee per year.
+Bonusly will reimburse approved professional development expenses, up to $200 per employee per year.
 
 ### Wellness
-Bonusly will subsidize 80% of approved wellness expenses (e.g. gym membership, yoga classes), up to $200 per employee per year.
+Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $200 per employee per year.
 
 ### Transit
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multi-modal/bus/ecopass/). Remote employees are eligible to receive a 25% reimbursement on a monthly transit pass.
