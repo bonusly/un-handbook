@@ -26,8 +26,8 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * Maximize the conditions for collaboration, creativity, and responsiveness:
    * Purpose - the sense that your job is important and you are having an impact
    * Transparency - easy access to information about your team's goals and performance
-   * Feedback - on your performance so that you can learn and improve
-   * Community - the bond you share with colleagues as your strive toward a common goals
+   * Feedback - own your performance so that you can learn and improve
+   * Community - the bond you share with colleagues as you strive toward common goals
    * Empowerment - the confidence and autonomy to experiment, learn, and then take action
 
 #### We work toward a future in which...
@@ -141,7 +141,7 @@ This is a value as old as business itself, but it’s fundamental to how we oper
 
 From the very start of Bonusly, we've focused on building a product that our customers find easy, fun, and useful. We pride ourselves on making the work a more fun, fulfilling, and positive experience for all our users - day after day, month after month, and year after year.
 
-To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
+To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight in them.
 
 ## Time Off
 ### Vacation
