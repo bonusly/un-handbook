@@ -163,9 +163,7 @@ Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays),
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we'll increase the amount of paid leave.
-
-Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
+We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
 
 ## Benefits
 ### Health/Dental/Vision Insurance
