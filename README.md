@@ -176,7 +176,7 @@ Bonusly offers a 401k with employer matching through [Guideline](https://www.gui
 Bonusly will reimburse approved professional development expenses, up to $2000 per employee per year.
 
 ### Wellness
-Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year.
+Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year. Employees can also get a discount on their membership at [Movement Climbing + Fitness](https://movementgyms.com/) by joining the "Smartly, Inc." corporate account.
 
 ### Transit
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multi-modal/bus/ecopass/). Remote employees are eligible to receive a 25% reimbursement on a monthly transit pass.
