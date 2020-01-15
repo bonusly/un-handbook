@@ -36,7 +36,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * Employees are encouraged to experiment, learn, and act.
 
 ## Ground Rules for Agreements
- 1. Responsibility for the relationship is shared 50/50. There must be symmetry or the relationship will collapse.
+ 1. Responsibility for the relationship is shared equally. There must be symmetry or the relationship will collapse.
  2. The agreement must be freely entered.
  3. You can’t get something for nothing. There must be a consideration from both sides.
  4. All wants are legitimate. You can’t say, “You shouldn’t want that.”
