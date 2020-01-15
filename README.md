@@ -35,6 +35,23 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * Information is explicit and shared, never hoarded.
  * Employees are encouraged to experiment, learn, and act.
 
+## Ground Rules for Agreements
+ 1. Responsibility for the relationship is shared 50/50. There must be symmetry or the relationship will collapse.
+ 2. The agreement must be freely entered.
+ 3. You can’t get something for nothing. There must be a consideration from both sides.
+ 4. All wants are legitimate. You can’t say, “You shouldn’t want that.”
+ 5. You can say No to what others want from you.
+ 6. You don’t always get what you want.
+ 7. You can’t agree to something the other person doesn't have, or agree to something that you don’t have to deliver.
+ 8. You can make an agreement about behavior. You can’t agree for the other person to change their feelings.
+ 9. You can’t make an agreement with someone who is not present. You must agree with them directly to know that you have an agreement.
+ 10. Agreements are always renegotiable. If someone wants to renegotiate an agreement in midstream, be grateful that they are telling you and not just breaking it without a word.
+ 11. Write down specific agreements when you can. Most are broken out of neglect, not intent.
+ 12. Agreements require deadlines or time duration.
+ 13. Good agreements require good faith and sometimes accidental good fortune.
+
+ (Adapted from [Peter Block's Flawless Consulting](https://www.amazon.com/Flawless-Consulting-Guide-Getting-Expertise-ebook/dp/B004NNV0QI))
+
 ## Values
 These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
