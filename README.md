@@ -38,13 +38,13 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 ## Ground Rules for Agreements
  1. Responsibility for the relationship is shared equally. There must be symmetry or the relationship will collapse.
  2. The agreement must be freely entered.
- 3. You can’t get something for nothing. There must be a consideration from both sides.
- 4. All wants are legitimate. You can’t say, “You shouldn’t want that.”
+ 3. You can't get something for nothing. There must be a consideration from both sides.
+ 4. All wants are legitimate. You can’t say, "You shouldn't want that."
  5. You can say No to what others want from you.
- 6. You don’t always get what you want.
- 7. You can’t agree to something the other person doesn't have, or agree to something that you don’t have to deliver.
+ 6. You don't always get what you want.
+ 7. You can't agree to something the other person doesn't have, or agree to something that you don't have to deliver.
  8. You can make an agreement about behavior. You can’t agree for the other person to change their feelings.
- 9. You can’t make an agreement with someone who is not present. You must agree with them directly to know that you have an agreement.
+ 9. You can't make an agreement with someone who is not present. You must agree with them directly to know that you have an agreement.
  10. Agreements are always renegotiable. If someone wants to renegotiate an agreement in midstream, be grateful that they are telling you and not just breaking it without a word.
  11. Write down specific agreements when you can. Most are broken out of neglect, not intent.
  12. Agreements require deadlines or time duration.
