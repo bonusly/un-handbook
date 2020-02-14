@@ -116,7 +116,7 @@ Working smarter also means knowing yourself and how you work best. Where do you 
 Embodying this value means:
 * Actively learn about and work to mitigate your own biases
 * Make sure our product is inclusive
-* Seek representation & inclusion (even at the expense of other goals)
+* Seek representation & inclusion
 * Build inclusivity & bias mitigation into our processes
 * Expect it to be hard and uncomfortable sometimes
 
