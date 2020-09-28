@@ -179,7 +179,7 @@ Bonusly will reimburse approved professional development expenses, up to $2000 p
 Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year. Employees can also get a discount on their membership at [Movement Climbing + Fitness](https://movementgyms.com/) by joining the "Smartly, Inc." corporate account.
 
 ### Transit
-Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multi-modal/bus/ecopass/). Remote employees are eligible to receive a 25% reimbursement on a monthly transit pass.
+Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multi-modal/bus/ecopass/). Employees in other locations are eligible to receive a 25% reimbursement on a monthly transit pass.
 
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in bonuses to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
