@@ -158,7 +158,7 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 
 Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
 
-Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Juneteenth](https://www.juneteenth.com/history.htm), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
+Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), Friday after Thanksgiving, [Juneteenth](https://www.juneteenth.com/history.htm), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
