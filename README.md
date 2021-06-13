@@ -36,7 +36,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
  * Employees are encouraged to experiment, learn, and act.
 
 ## Values
-These [values are what we value](http://www.slideshare.net/reed2001/culture-1798664/3-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
+These [values are what we value](https://www.slideshare.net/reed2001/culture-1798664/4-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
 The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people. By Q3 2018 we had grown to 22 people, and decided it was time for an update. We spent a half-day soliciting input from the entire team, which the leadership team then synthesized into an updated set of values that was shared with the whole company in November 2018.
 
