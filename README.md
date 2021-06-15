@@ -158,7 +158,7 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 
 Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
 
-Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day)(Friday after Thanksgiving), [Juneteenth](https://www.juneteenth.com/history.htm), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
+Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day)(Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
@@ -179,7 +179,7 @@ Bonusly offers a 401k with employer matching through [Guideline](https://www.gui
 Bonusly will reimburse approved professional development expenses, up to $2000 per employee per year.
 
 ### Wellness
-Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year. Employees can also get a discount on their membership at [Movement Climbing + Fitness](https://movementgyms.com/) by joining the "Smartly, Inc." corporate account.
+Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year. Employees can also get a discount on their membership at [Movement Climbing + Fitness](https://el-cap.com/) by joining the "Smartly, Inc." corporate account.
 
 ### Transit
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multimodal/bus/ecopass/). Employees in other locations are eligible to receive a 25% reimbursement on a monthly transit pass.
