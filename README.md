@@ -20,7 +20,6 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
    * Collaboration, to leverage unique perspectives and expertise across domains.
    * Creativity, to find novel solutions to difficult problems.
    * Responsiveness, to adapt to rapidly changing landscape of technologies, customers, and competitors.
- * The way we work must change radically. Current "best practices" are designed for jobs that no longer exist.
 
 #### This belief inspires us to...
  * Maximize the conditions for collaboration, creativity, and responsiveness:
