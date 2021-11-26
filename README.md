@@ -7,6 +7,15 @@ At Bonusly we like to be agile (lowercase 'a') about everything we do. In that s
 
 Without further ado, here is the Bonusly Employee Un-Handbook.
 
+## History
+The initial version of this un-handbook was created at our first company retreat, when Bonusly was a team of seven people. By Q3 2018 we had grown to 22 people, and decided it was time for an update. We spent a half-day soliciting input from the entire team, which the leadership team then synthesized into an updated set of values that was shared with the whole company in November 2018.
+
+In between these major updates, there have been regular small tweaks, corrections, and updates both as a result of internal input as well as pull requests from outside of Bonusly. Thank you to all who have contributed!
+
+In Q3 2021 Bonusly was rapidly approaching 100 people. We wanted a way to keep our un-handbook fresh by incorporating input from all Bonuslians, but it wasn’t feasible to get everyone in a room to discuss it in an open-ended fashion. So we used our own product, Signals, to solicit feedback from our team. Then we [coded](https://delvetool.com/guide) the feedback and made edits which were submitted as a Pull Request for review and comment. After the comment period, the changes were finalized and merged in.
+
+We will continue to find ways to solicit feedback and input from the Bonusly community on a regular basis, to ensure that this document scales as we do!
+
 ## Table of Contents
 1. [What We Believe](https://github.com/bonusly/un-handbook#what-we-believe)
 2. [Values](https://github.com/bonusly/un-handbook#values)
@@ -16,28 +25,18 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 ## What We Believe
 #### At Bonusly, we believe...
  * Success in business is determined by **people**, **working on teams**, to **solve novel problems**.
- * The era of rote and repetitive work is at an end. The jobs of today (& tomorrow) require:
-   * Collaboration, to leverage unique perspectives and expertise across domains.
-   * Creativity, to find novel solutions to difficult problems.
-   * Responsiveness, to adapt to rapidly changing landscape of technologies, customers, and competitors.
 
 #### This belief inspires us to...
- * Maximize the conditions for collaboration, creativity, and responsiveness:
+ * Maximize the conditions for people and teams to sustainably do their best work over the long run:
    * Purpose - the sense that your job is important and you are having an impact
-   * Transparency - easy access to information about your team's goals and performance
-   * Feedback - on your performance so that you can learn and improve
-   * Community - the bond you share with colleagues as your strive toward a common goals
-   * Empowerment - the confidence and autonomy to experiment, learn, and then take action
+   * Progress - the opportunity to develop your skills and grow as a person, as well as test yourself against new and interesting challenges
+   * Belonging - the feeling that you matter and are valued, combined with the bond you forge with colleagues as your strive toward a common goals
 
 #### We work toward a future in which...
- * Autonomy & ownership is maximized.
- * Information is explicit and shared, never hoarded.
- * Employees are encouraged to experiment, learn, and act.
+ * Every organization achieves success by developing purposeful, inclusive, and high-achieving teams.
 
 ## Values
-These [values are what we value](https://www.slideshare.net/reed2001/culture-1798664/4-Seven_Aspects_of_our_Culture) at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
-
-The initial list of these values were created at our first company retreat, when Bonusly was a team of seven people. By Q3 2018 we had grown to 22 people, and decided it was time for an update. We spent a half-day soliciting input from the entire team, which the leadership team then synthesized into an updated set of values that was shared with the whole company in November 2018.
+These values are what we value at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
 * [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
 * [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
