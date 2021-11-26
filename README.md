@@ -24,7 +24,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
 
 ## What We Believe
 #### At Bonusly, we believe...
- * Success in business is determined by **people**, **working on teams**, to **solve novel problems**.
+ * Success in business is determined by **people** **working on teams**.
 
 #### This belief inspires us to...
  * Maximize the conditions for people and teams to sustainably do their best work over the long run:
