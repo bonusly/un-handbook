@@ -78,6 +78,7 @@ We believe that success is achieved by people working on teams. As such, it is c
 
 Embodying this value means:
 * Take responsibility to share information that may help others (with context)
+* Embrace and contribute to a culture of writing
 * Share what you’ve learned
 * Be vulnerable - talk about mistakes, failures, and bad news
 * Create an environment where it’s easy to get information
@@ -86,13 +87,9 @@ Embodying this value means:
 
 In order to act on our values, particularly those of [Work smarter](https://github.com/bonusly/un-handbook#work-smarter) and [Go get results](https://github.com/bonusly/un-handbook#go-get-results), individuals must be equipped with the information they need to make good decisions. That information consists of metrics, results and other data, as well as the contextual information to help them understand that data and use it to make good decisions.
 
-We don’t just occasionally share our internal metrics -- we make them available in real time. Any member of Bonusly can log in to our internal dashboard and see our up-to-date metrics: revenue, churn, LTV, response time, uptime, etc. This ensures that people have the information they need to come up with novel solutions and act on them.
+When Bonusly was smaller, the description of this core value focused on sharing internal metrics along with strategies, goals, outcomes, and other important context. That is still necessary, but increasingly insufficient as we scale. Now more than 100 people, we are discovering the need for people at every level of the organization to adopt practices and processes that not only record information and make it available to those who might be looking for it, but also cultivate habits and processes that proactively put the right information into the hands of those who need it.
 
-Just posting information isn't enough, however. Sharing _context_ is also necessary. So, we have monthly all-hands meetings and post explainers in Slack so that team members don't just see our numbers, priorities, and goals, but understand what they mean.
-
-On an individual level, we candidly share stories of our successes, failures, challenges, and interests so that we can learn from and support one another.
-
-In discussing this value, there was some concern that "default" made it sound too passive but we ultimately came to feel that "default" is the appropriate word. As dedicated product people, we understand the power of defaults. To make something the default means that people will always do that thing, _unless there is a very compelling reason not to_. We understand that some information must be kept confidential or compartmentalized. But this value ensures that sharing is the rule, concealing is the exception.
+In short, defaulting to transparency isn’t enough -- to fully embody this value we must default to documenting, default to onboarding and training, and default to updating and maintaining information sources.
 
 ### Work smarter
 
