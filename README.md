@@ -109,7 +109,7 @@ Working smarter also means knowing yourself and how you work best. Where do you 
 ### Seek and embrace diversity
 
 Embodying this value means:
-* Actively learn about and work to mitigate your own biases
+* Actively learn about your own privileges
 * Make sure our product is inclusive
 * Seek representation & inclusion (even at the expense of other goals)
 * Build inclusivity & bias mitigation into our processes
@@ -117,11 +117,11 @@ Embodying this value means:
 
 Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
 
-Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them. And in the spirit of measuring results, we track and share our diversity numbers on a quarterly basis.
-
-On an individual level, employees help create an inclusive and welcoming environment first by learning about how privilege and bias can work to exclude certain voices in the workplace. For example, [meetings are often a situation in which women, minorities, and people with reserved personalities struggle to be heard](https://hbr.org/2014/06/women-find-your-voice). If you are someone who feels comfortable and confident in meetings and usually speaks early and often, try asking for input from your colleagues before giving your opinion. Encourage others who do speak up by practicing active listening and thanking them for their input.
+Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Mathison](https://www.mathison.io/platform)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), so we strive to build bias-mitigation into our training, processes, and systems. And in the spirit of measuring results, we track and share our diversity numbers on a quarterly basis.
 
 On a product level, we strive to build a software tools that are inclusive and welcoming to all, and will hold ourselves accountable for how our product is used by our customers.
+
+On an individual level, employees help create an inclusive and welcoming environment first by engaging with and seeking to understand our own privileges (yes, plural -- there are many different kinds of privilege). This is easier said than done, as [privilege is more about the absence of inconvenience and impediment than the presence of unearned riches and good fortune](https://twitter.com/bbcbitesize/status/1290969898517254145). This makes it hard to notice when you have it. Noticing and acknowledging privilege is key to embodying this core value. Then, having taken that step, we strive to be curious and empathetic with our friends and colleagues from different backgrounds, and to help create a workplace where there is incrementally less inconvenience and impediment for all, regardless of who you are.
 
 ### Delight the customer
 
