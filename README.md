@@ -142,7 +142,7 @@ To that end, everyone at Bonusly focuses on the customer -- their needs, challen
 ### Vacation
 We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
 
-Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
+Instead, we set a minimum expected vacation. Our expectation is that everyone will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
 
 We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
 
@@ -153,16 +153,16 @@ We also embrace a more nuanced view of time off. At our last company retreat, we
 
 Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
 
-Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day)(Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
+Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
-We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents (mothers or fathers) can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
+We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
 
 ## Benefits
 ### Health/Dental/Vision Insurance
-Bonusly offers fully-covered health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
+Bonusly offers fully-covered health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to their spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
 
 ### Short-term/Long-term Disablity & Life Insurance
 Bonusly covers short-term and long-term disability in the event of any potential medical leaves. Life insurance coverage is basic with the option for employees to add on additional voluntary coverage for themselves, a spouse, and children.
@@ -174,13 +174,13 @@ Bonusly offers a 401k with employer matching through [Guideline](https://www.gui
 Bonusly will reimburse approved professional development expenses, up to $2000 per employee per year.
 
 ### Wellness
-Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year. Employees can also get a discount on their membership at [Movement Climbing + Fitness](https://el-cap.com/) by joining the "Smartly, Inc." corporate account.
+Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year.
 
 ### Transit
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multimodal/bus/ecopass/). Employees in other locations are eligible to receive a 25% reimbursement on a monthly transit pass.
 
 ### Bonusly for Bonusly Employees
-Every employee has a generous budget to give out in bonuses to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
+Every employee has a generous budget to give out in recignition to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
 
 
 
