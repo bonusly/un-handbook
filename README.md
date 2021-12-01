@@ -36,7 +36,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
  * Every organization achieves success by developing purposeful, inclusive, and high-achieving teams.
 
 ## Values
-These values are what we value at Bonusly. They aren’t just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
+They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
 * [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
 * [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
