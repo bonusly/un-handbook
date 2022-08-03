@@ -17,11 +17,11 @@ In Q3 2021 Bonusly was rapidly approaching 100 people. We wanted a way to keep o
 We will continue to find ways to solicit feedback and input from the Bonusly community on a regular basis, to ensure that this document scales as we do!
 
 ## Table of Contents
-1. [What We Believe](https://github.com/bonusly/un-handbook#what-we-believe)
-2. [Values](https://github.com/bonusly/un-handbook#values)
-3. [Compensation](https://github.com/bonusly/un-handbook#compensation)
-4. [Benefits](https://github.com/bonusly/un-handbook#benefits)
-5. [Time off](https://github.com/bonusly/un-handbook#time-off)
+1. [What We Believe](#what-we-believe)
+2. [Values](#values)
+3. [Compensation](#compensation)
+4. [Benefits](#benefits)
+5. [Time off](#time-off)
 
 ## What We Believe
 #### At Bonusly, we believe...
