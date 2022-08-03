@@ -140,7 +140,7 @@ From the very start of Bonusly, we've focused on building a product that our cus
 To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
 
 ## Compensation
-At Bonusly, we believe compensation should be fair and equitable. We aim for total compensation to be at or above the market for similar roles at similar companies. We use data to make decisions and take subjectivity out of the compensation process as much as possible. Learn more about our [Compensation Philosophy at Bonusly](https://docs.google.com/document/d/1OPYBrKlVRWrlJC6wYl-fkSoLKQOYd01WG3wpVIawJJA/edit?usp=sharing).
+At Bonusly, we believe compensation should be fair and equitable. We use data to make decisions and take subjectivity out of the compensation process as much as possible, and aim for total compensation to be at or above the market for similar roles at similar companies.  Learn more about our [Compensation Philosophy at Bonusly](https://docs.google.com/document/d/1OPYBrKlVRWrlJC6wYl-fkSoLKQOYd01WG3wpVIawJJA/edit?usp=sharing).
 
 ## Benefits
 ### Health/Dental/Vision Insurance
