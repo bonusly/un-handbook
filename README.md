@@ -19,8 +19,9 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
 ## Table of Contents
 1. [What We Believe](https://github.com/bonusly/un-handbook#what-we-believe)
 2. [Values](https://github.com/bonusly/un-handbook#values)
-3. [Time off](https://github.com/bonusly/un-handbook#time-off)
+3. [Compensation](https://github.com/bonusly/un-handbook#compensation)
 4. [Benefits](https://github.com/bonusly/un-handbook#benefits)
+5. [Time off](https://github.com/bonusly/un-handbook#time-off)
 
 ## What We Believe
 #### At Bonusly, we believe...
@@ -138,27 +139,8 @@ From the very start of Bonusly, we've focused on building a product that our cus
 
 To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
 
-## Time Off
-### Vacation
-We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
-
-Instead, we set a minimum expected vacation. Our expectation is that everyone will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
-
-We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
-
-* Travel while still working about half time (a “workcation”).
-* Take breaks on nice days to go hiking/biking.
-* Take occasional 3-day weekends.
-* Go away on a longer (week+) vacation where you fully disconnect from work.
-
-Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
-
-Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
-
-### Parental Leave
-One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
-
-We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
+## Compensation
+At Bonusly, we believe compensation should be fair and equitable. We aim for total compensation to be at or above the market for similar roles at similar companies. We use data to make decisions and take subjectivity out of the compensation process as much as possible. Learn more about our [Compensation Philosophy at Bonusly](https://docs.google.com/document/d/1OPYBrKlVRWrlJC6wYl-fkSoLKQOYd01WG3wpVIawJJA/edit?usp=sharing).
 
 ## Benefits
 ### Health/Dental/Vision Insurance
@@ -182,6 +164,26 @@ Boulder HQ-based employees are eligible for the free [EcoPass program](https://w
 ### Bonusly for Bonusly Employees
 Every employee has a generous budget to give out in recognition to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
 
+## Time Off
+### Vacation
+We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
 
+Instead, we set a minimum expected vacation. Our expectation is that everyone will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
+
+We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
+
+* Travel while still working about half time (a “workcation”).
+* Take breaks on nice days to go hiking/biking.
+* Take occasional 3-day weekends.
+* Go away on a longer (week+) vacation where you fully disconnect from work.
+
+Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
+
+Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
+
+### Parental Leave
+One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
+
+We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.*
