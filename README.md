@@ -31,7 +31,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
  * Maximize the conditions for people and teams to sustainably do their best work over the long run:
    * Purpose - the sense that your job is important and you are having an impact
    * Progress - the opportunity to develop your skills and grow as a person, as well as test yourself against new and interesting challenges
-   * Belonging - the feeling that you matter and are valued, combined with the bond you forge with colleagues as your strive toward a common goals
+   * Belonging - the feeling that you matter and are valued, combined with the bond you forge with colleagues as you strive toward a common goal
 
 #### We work toward a future in which...
  * Every organization achieves success by developing purposeful, inclusive, and high-achieving teams.
