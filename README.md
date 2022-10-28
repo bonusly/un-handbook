@@ -84,7 +84,7 @@ Embodying this value means:
 * Be vulnerable - talk about mistakes, failures, and bad news
 * Create an environment where it’s easy to get information
 
-(We took this phrasing from [Buffer](https://open.bufferapp.com/buffer-values/). Thanks, Buffer.)
+(We took this phrasing from [Buffer](https://buffer.com/resources/buffer-values/). Thanks, Buffer.)
 
 In order to act on our values, particularly those of [Work smarter](https://github.com/bonusly/un-handbook#work-smarter) and [Go get results](https://github.com/bonusly/un-handbook#go-get-results), individuals must be equipped with the information they need to make good decisions. That information consists of metrics, results and other data, as well as the contextual information to help them understand that data and use it to make good decisions.
 
