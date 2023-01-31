@@ -25,16 +25,19 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
 
 ## What We Believe
 #### At Bonusly, we believe...
- * Success in business is determined by **people** **working on teams**.
+ * **People**, working on **teams**, are the primary driver of **business success**.
 
-#### This belief inspires us to...
- * Maximize the conditions for people and teams to sustainably do their best work over the long run:
+#### This belief leads us to...
+ * Help companies realize successful business outcomes by developing high-performing, highly-engaged teams.
+
+#### We accomplish this by...
+ * Building software solutions that connect people with their work and each other in meaningful ways. A “meaningful connection” strengthens one or more of the three pillars of Employee Engagement:
    * Purpose - the sense that your job is important and you are having an impact
    * Progress - the opportunity to develop your skills and grow as a person, as well as test yourself against new and interesting challenges
    * Belonging - the feeling that you matter and are valued, combined with the bond you forge with colleagues as you strive toward a common goal
 
 #### We work toward a future in which...
- * Every organization achieves success by developing purposeful, inclusive, and high-achieving teams.
+ * Every employed person derives a sense of purpose, progress, and belonging from their work.
 
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
