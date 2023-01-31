@@ -12,7 +12,7 @@ The initial version of this un-handbook was created at our first company retreat
 
 In between these major updates, there have been regular small tweaks, corrections, and updates both as a result of internal input as well as pull requests from outside of Bonusly. Thank you to all who have contributed!
 
-In Q3 2021 Bonusly was rapidly approaching 100 people. We wanted a way to keep our un-handbook fresh by incorporating input from all Bonuslians, but it wasn’t feasible to get everyone in a room to discuss it in an open-ended fashion. So we used our own product, [Signals](https://bonus.ly/signals), to solicit feedback from our team. Then we [coded](https://delvetool.com/guide) the feedback and made edits which were submitted as a Pull Request for review and comment. After the comment period, the changes were finalized and merged in.
+In Q3 2021 Bonusly was rapidly approaching 100 people. We wanted a way to keep our un-handbook fresh by incorporating input from all Bonuslians, but it wasn’t feasible to get everyone in a room to discuss it in an open-ended fashion. So we used an online survey to solicit feedback from our team. Then we [coded](https://delvetool.com/guide) the feedback and made edits which were submitted as a Pull Request for review and comment. After the comment period, the changes were finalized and merged in.
 
 We will continue to find ways to solicit feedback and input from the Bonusly community on a regular basis, to ensure that this document scales as we do!
 
