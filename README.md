@@ -165,7 +165,7 @@ Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga cla
 Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multimodal/bus/ecopass/). Employees in other locations are eligible to receive a 25% reimbursement on a monthly transit pass.
 
 ### Bonusly for Bonusly Employees
-Every employee has a generous budget to give out in recognition to their colleagues. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
+We use Bonusly to recognize one another, as well as automate or streamline many other recognition and incentive programs. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
 
 ## Time Off
 ### Vacation
