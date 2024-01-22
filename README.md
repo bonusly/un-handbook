@@ -103,7 +103,7 @@ Instead, we set a minimum expected vacation. Our expectation is that everyone wi
 
 Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
 
-Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
+Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
 We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
