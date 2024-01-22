@@ -10,9 +10,7 @@ Without further ado, here is the Bonusly Employee Un-Handbook.
 ## History
 The initial version of this un-handbook was created at our first company retreat, when [Bonusly](https://bonus.ly) was a team of seven people. By Q3 2018 we had grown to 22 people, and decided it was time for an update. We spent a half-day soliciting input from the entire team, which the leadership team then synthesized into an updated set of values that was shared with the whole company in November 2018.
 
-In between these major updates, there have been regular small tweaks, corrections, and updates both as a result of internal input as well as pull requests from outside of Bonusly. Thank you to all who have contributed!
-
-In Q3 2021 Bonusly was rapidly approaching 100 people. We wanted a way to keep our un-handbook fresh by incorporating input from all Bonuslians, but it wasn’t feasible to get everyone in a room to discuss it in an open-ended fashion. So we used an online survey to solicit feedback from our team. Then we [coded](https://delvetool.com/guide) the feedback and made edits which were submitted as a Pull Request for review and comment. After the comment period, the changes were finalized and merged in.
+Since then, we've continued to evolve this document, with occasional major updates and more frequent small tweaks, corrections, and updates both as a result of internal input as well as pull requests from outside of Bonusly. Thank you to all who have contributed!
 
 We will continue to find ways to solicit feedback and input from the Bonusly community on a regular basis, to ensure that this document scales as we do!
 
@@ -89,13 +87,10 @@ Bonusly covers short-term and long-term disability in the event of any potential
 Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/). Bonusly matches 100% of the first 3% contributed, and 50% of the next 2% (for a max employer contribution of 4%).
 
 ### Professional Development
-Bonusly will reimburse approved professional development expenses, up to $2000 per employee per year.
+Bonusly will reimburse approved professional development expenses, up to $1500 per employee per year.
 
 ### Wellness
-Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $500 per employee per year.
-
-### Transit
-Boulder HQ-based employees are eligible for the free [EcoPass program](https://www.bouldercounty.org/transportation/multimodal/bus/ecopass/). Employees in other locations are eligible to receive a 25% reimbursement on a monthly transit pass.
+Bonusly will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $750 per employee per year.
 
 ### Bonusly for Bonusly Employees
 We use Bonusly to recognize one another, as well as automate or streamline many other recognition and incentive programs. You can redeem your earnings for gift cards, cash, and charitable donations, and we're always excited about suggestions for new rewards to add to our catalog!
@@ -106,20 +101,13 @@ We want you to take the time you need to refresh and recharge. Many startups off
 
 Instead, we set a minimum expected vacation. Our expectation is that everyone will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
 
-We also embrace a more nuanced view of time off. At our last company retreat, we asked the team to talk about what they valued in their time off. Unsurprisingly, we want the freedom to mix work and free time in different ways. Here are some examples of what Bonusly employees do, which we encourage you to do as well:
-
-* Travel while still working about half time (a “workcation”).
-* Take breaks on nice days to go hiking/biking.
-* Take occasional 3-day weekends.
-* Go away on a longer (week+) vacation where you fully disconnect from work.
-
 Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee should take enough time off that they are able to sustainably perform their job function at a high level.
 
 Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
-One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
+One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
 
-We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first.
+We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first. Parental leave is for any new parent whether by birth, adoption, or surrogacy.
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.*
