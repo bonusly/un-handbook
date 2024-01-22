@@ -42,105 +42,38 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
-* [Go get results](https://github.com/bonusly/un-handbook#go-get-results)
-* [Be an excellent teammate](https://github.com/bonusly/un-handbook#be-an-excellent-teammate)
-* [Default to transparency](https://github.com/bonusly/un-handbook#default-to-transparency)
-* [Work smarter](https://github.com/bonusly/un-handbook#work-smarter)
-* [Seek and embrace diversity](https://github.com/bonusly/un-handbook#seek-and-embrace-diversity)
-* [Delight the customer](https://github.com/bonusly/un-handbook#delight-the-customer)
+* [Trust first and always](https://github.com/bonusly/un-handbook#trust-first-and-always)
+* [Speak the truth](https://github.com/bonusly/un-handbook#speak-the-truth)
+* [Raise the bar](https://github.com/bonusly/un-handbook#raise-the-bar)
+* [Apply common sense](https://github.com/bonusly/un-handbook#apply-common-sense)
+* [Get it done](https://github.com/bonusly/un-handbook#get-it-done)
 
-### Go get results
+### Trust first and always
+#### Trust is the foundation, given not earned
 
-Embodying this value means:
-* Bias toward action
-* Try things that might not work
-* Focus on results, not inputs
-* Release, iterate, improve
-* Take responsibility for understanding context and goals
+Trust is the foundation of all our values. And as such, we value it over everything. We believe that trust is given, not earned.
 
-You can think of this value in two parts: “go get” and “results”.
+We first have to give trust before receiving it. We assume noble intent in all situations. That means that even if we disagree with someone, we believe that they are coming from a place of goodness.
 
-The first part (“go get”) speaks to our strong bias toward action / decision. Reality is noisy and messy. Our understanding of it is incomplete and often wrong. Yet we still need to navigate reality in order to grow Bonusly and realize our vision for the future. The best way to do that is by getting results. A result from a real world experiment (a new marketing tactic, a quick product test, a tweak to our sales funnel) is extremely valuable because regardless of whether it is positive or negative, it helps us improve our understanding of reality. Research backs this up: [McKinsey has found that organizations that make more decisions more quickly, get better results](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/decision-making-in-the-age-of-urgency).
+### Speak the truth
+#### Truth enables continuous improvement
 
-The second part (“results”) speaks to the importance primacy of outputs. This leads us to be agnostic about how results are gotten. For example, we don’t have a company-wide policy to govern how individual Bonuslians get shit done. Those decisions are delegated to teams and individuals. It also leads us to prioritize getting results -- because we can learn from them. Did we get [lucky or unlucky](https://medium.com/@aidanhornsby/notes-on-thinking-in-bets-b1c2af6a5791)? How will we update our understanding of reality based on the result?
+With Trust as our foundation, we have the freedom and responsibility to speak openly and candidly about things that can help advance the organization. We are willing to challenge the status quo, ask the difficult questions, state what may not be working and give new perspectives. We express strong opinions without fear, but hold those opinions loosely. We welcome feedback, and give it freely and proactively.
 
-### Be an excellent teammate
+### Raise the bar
+#### Challenging the status quo drives excellence
 
-Embodying this value means:
-* Be proactive and assertive
-* Solicit feedback and input
-* Be [radically candid](https://www.radicalcandor.com/about-radical-candor/)
-* Listen first
-* Assume the best
-* Be there for others
-* Teach & encourage
-* Solve problems together
+Bonusly, like all startups, is for “pirates & romantics” – people who are constantly, annoyingly, dissatisfied with the status quo. This is the only way that we will succeed: by always imagining how things could be better, and working our tails off to make what we imagine, real.
 
-We believe that success is achieved by people working on teams. As such, it is critical that we be the best teammates possible to one another. This means being proactive and assertive in your communication: asking for what you need, providing candid, constructive feedback, and voicing your opinions and ideas. It also means listening to, supporting, and encouraging your colleagues -- especially at times of disagreement and stress. And last but not least, it means having fun with your teammates!
+### Apply common sense
+#### Simply solve the right problems
 
-### Default to transparency
+There are infinite problems to solve and infinite approaches to solving them. We will only be successful if we are great at picking the right problems to solve, and the right ways to solve them. Rules and precedents can help, but can also lead you astray. This is hard work that requires reasoning from first principles and focusing on business outcomes.
 
-Embodying this value means:
-* Take responsibility to share information that may help others (with context)
-* Embrace and contribute to a culture of writing
-* Share what you’ve learned
-* Be vulnerable - talk about mistakes, failures, and bad news
-* Create an environment where it’s easy to get information
+### Get it done
+#### Ultimately, execution is all that matters
 
-(We took this phrasing from [Buffer](https://buffer.com/resources/buffer-values/). Thanks, Buffer.)
-
-In order to act on our values, particularly those of [Work smarter](https://github.com/bonusly/un-handbook#work-smarter) and [Go get results](https://github.com/bonusly/un-handbook#go-get-results), individuals must be equipped with the information they need to make good decisions. That information consists of metrics, results and other data, as well as the contextual information to help them understand that data and use it to make good decisions.
-
-When Bonusly was smaller, the description of this core value focused on sharing internal metrics along with strategies, goals, outcomes, and other important context. That is still necessary, but increasingly insufficient as we scale. Now more than 100 people, we are discovering the need for people at every level of the organization to adopt practices and processes that not only record information and make it available to those who might be looking for it, but also cultivate habits and processes that proactively put the right information into the hands of those who need it.
-
-In short, defaulting to transparency isn’t enough -- to fully embody this value we must default to documenting, default to onboarding and training, and default to updating and maintaining information sources.
-
-### Work smarter
-
-Embodying this value means:
-* Question why/how we do things
-* Iterate on current processes
-* Optimize how you work
-* Always be learning
-* Make data-informed decisions (when possible)
-* Figure out how we can "punch above our weight"
-* Embrace & learn from negative results
-
-At Bonusly, we’re able to move quickly and effectively with a very small team by ensuring that every team member is not simply executing on tactical-level tasks, but is also evaluating, improving, (and ideally automating) how those tasks get executed. Moreover, team members are encouraged to question if specific tasks are even necessary, and seek [growth via subtraction](https://medium.com/@SubtractionCap/subtraction-growth-6ef5c8ad42f6).
-
-Working smarter also means knowing yourself and how you work best. Where do you work best? With what tools? At what times? How much R&R do you need in order to perform at your best? What skills/knowledge do you need to acquire in order to take your output to the next level? At Bonusly, you have the freedom, and the responsibility, to answer these questions for yourself.
-
-### Seek and embrace diversity
-
-Embodying this value means:
-* Actively learn about your own privileges
-* Make sure our product is inclusive
-* Seek representation & inclusion (even at the expense of other goals)
-* Build inclusivity & bias mitigation into our processes
-* Expect it to be hard and uncomfortable sometimes
-
-Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
-
-Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Mathison](https://www.mathison.io/platform)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), so we strive to build bias-mitigation into our training, processes, and systems. And in the spirit of measuring results, we track and share our diversity numbers on a quarterly basis.
-
-On a product level, we strive to build software that is inclusive and welcoming to all, and will hold ourselves accountable for how our product is used by our customers.
-
-On an individual level, employees help create an inclusive and welcoming environment first by engaging with and seeking to understand our own privileges (yes, plural -- there are many different kinds of privilege). This is easier said than done, as [privilege is more about the absence of inconvenience and impediment than the presence of unearned riches and good fortune](https://twitter.com/bbcbitesize/status/1290969898517254145). This makes it hard to notice when you have it. Noticing and acknowledging privilege is key to embodying this core value. Then, having taken that step, we strive to be curious and empathetic with our friends and colleagues from different backgrounds, and to help create a workplace where there is incrementally less inconvenience and impediment for all, regardless of who you are.
-
-### Delight the customer
-
-Embodying this value means:
-* Provide a delightful experience
-* Make it fun & easy
-* Deliver value over the long term
-* Take time to listen to and empathize with the customer
-* Be accountable for how people experience our product and company
-
-This is a value as old as business itself, but it’s fundamental to how we operate at Bonusly. We are a business, and the only way we can stay in business is by attracting and retaining customers.
-
-From the very start of Bonusly, we've focused on building a product that our customers find easy, fun, and useful. We pride ourselves on making the work a more fun, fulfilling, and positive experience for all our users - day after day, month after month, and year after year.
-
-To that end, everyone at Bonusly focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
+Our other values enable us to execute rapidly. Without rapid execution there can be no success. Go get it done.
 
 ## Compensation
 At Bonusly, we believe compensation should be fair and equitable. We use data to make decisions and take subjectivity out of the compensation process as much as possible, and aim for total compensation to be at or above the market for similar roles at similar companies.  Learn more about our [Compensation Philosophy at Bonusly](https://docs.google.com/document/d/1OPYBrKlVRWrlJC6wYl-fkSoLKQOYd01WG3wpVIawJJA/edit?usp=sharing).
