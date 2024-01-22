@@ -106,7 +106,7 @@ Can you truly take unlimited vacation? Of course not. You can't expect to take 6
 Bonusly observes all [US federal holidays](https://www.federalpay.org/holidays), [Native American Heritage Day](https://en.wikipedia.org/wiki/Native_American_Heritage_Day) (Friday after Thanksgiving), [Juneteenth](https://juneteenth.com/history/), and [Indigenous Peoples' Day](https://www.smithsonianmag.com/blogs/national-museum-american-indian/2019/10/11/indigenous-peoples-day-2019/) as paid holidays.
 
 ### Parental Leave
-One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
+We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents.
 
 We offer 12 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. Also, new parents can bring their immobile infants to work with them. Your new little one is welcome to tag along to work until six months or crawling, whichever comes first. Parental leave is for any new parent whether by birth, adoption, or surrogacy.
 
