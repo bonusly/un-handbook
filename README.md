@@ -29,13 +29,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
  * Help companies realize successful business outcomes by developing high-performing, highly-engaged teams.
 
 #### We accomplish this by...
- * Building software solutions that connect people with their work and each other in meaningful ways. A “meaningful connection” strengthens one or more of the three pillars of Employee Engagement:
-   * Purpose - the sense that your job is important and you are having an impact
-   * Progress - the opportunity to develop your skills and grow as a person, as well as test yourself against new and interesting challenges
-   * Belonging - the feeling that you matter and are valued, combined with the bond you forge with colleagues as you strive toward a common goal
-
-#### We work toward a future in which...
- * Every employed person derives a sense of purpose, progress, and belonging from their work.
+ * Enabling teams to perform up to their highest potential with software that helps them recognize, coach, learn, and celebrate.
 
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
