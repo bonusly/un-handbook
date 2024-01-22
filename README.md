@@ -42,11 +42,11 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
 
-* Trust first and always
-* Speak the truth
-* Raise the bar
-* Apply common sense
-* Get it done
+* [Trust first and always](#trust-first-and-always)
+* [Speak the truth](#speak-the-truth)
+* [Raise the bar](#raise-the-bar)
+* [Apply common sense](#apply-common-sense)
+* [Get it done](#get-it-done)
 
 ### Trust first and always
 #### Trust is the foundation, given not earned
