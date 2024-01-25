@@ -29,7 +29,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
  * Help companies realize successful business outcomes by developing high-performing, highly-engaged teams.
 
 #### We accomplish this by...
- * Enabling teams to perform up to their highest potential with software that helps them recognize, coach, learn, and celebrate.
+ * Enabling teams to perform up to their highest potential with software that helps them recognize, coach, learn, and celebrate high performance.
 
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
