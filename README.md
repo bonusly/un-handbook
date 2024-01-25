@@ -88,7 +88,7 @@ We use Bonusly to recognize one another, as well as automate or streamline many 
 
 ## Time Off
 ### Vacation
-We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly [discourage employees from taking vacation](https://cdn-images-1.medium.com/max/1434/1*fompXsY2010uPRkG1poa-g.png).
+We want you to take the time you need to refresh and recharge. Many startups offer a simple “unlimited vacation” policy. [We view this](http://blog.bonus.ly/unlimited-vacation-is-a-lie/) as lazy policymaking at best and at worst an attempt to subtly discourage employees from taking vacation.
 
 Instead, we set a minimum expected vacation. Our expectation is that everyone will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
 
