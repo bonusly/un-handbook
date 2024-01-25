@@ -26,10 +26,7 @@ We will continue to find ways to solicit feedback and input from the Bonusly com
  * **People**, working on **teams**, are the primary driver of **business success**.
 
 #### This belief leads us to...
- * Help companies realize successful business outcomes by developing high-performing, highly-engaged teams.
-
-#### We accomplish this by...
- * Enabling teams to perform up to their highest potential with software that helps them recognize, coach, learn, and celebrate high performance.
+ * Enable high-performing people and teams by delivering an employee engagement and feedback solution that amplifies wins, connects teams, and shares insights.
 
 ## Values
 They aren't just nice-sounding words on a poster somewhere, but a succinct description of our culture and what it’s like to work here. We use these values to guide our day-to-day activities and decision-making, from how we respond to customer emails to the roles we hire for to the features we build.
