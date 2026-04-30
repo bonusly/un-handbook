@@ -69,7 +69,7 @@ At Bonusly, we believe compensation should be fair and equitable. We use data to
 
 ## Benefits
 ### Health/Dental/Vision Insurance
-Bonusly offers fully-covered health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to their spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
+Bonusly offers excellent health/dental/vision benefits that are significantly more comprehensive than industry average. Employees can also extend their insurance benefits to their spouse and dependent children. "Spouse" includes partners through marriage, civil union, or registered domestic partnerships.
 
 ### Short-term/Long-term Disablity & Life Insurance
 Bonusly covers short-term and long-term disability in the event of any potential medical leaves. Life insurance coverage is basic with the option for employees to add on additional voluntary coverage for themselves, a spouse, and children.
