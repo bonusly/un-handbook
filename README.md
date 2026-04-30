@@ -75,7 +75,7 @@ Bonusly offers excellent health/dental/vision benefits that are significantly mo
 Bonusly covers short-term and long-term disability in the event of any potential medical leaves. Life insurance coverage is basic with the option for employees to add on additional voluntary coverage for themselves, a spouse, and children.
 
 ### 401k with Employer Matching
-Bonusly offers a 401k with employer matching through [Guideline](https://www.guideline.com/). Bonusly matches 100% of the first 3% contributed, and 50% of the next 2% (for a max employer contribution of 4%).
+Bonusly offers a 401k with employer matching through [Fidelity](https://nb.fidelity.com/public/nb/default/home). Bonusly matches 100% of the first 3% contributed, and 50% of the next 2% (for a max employer contribution of 4%).
 
 ### Professional Development
 Bonusly will reimburse approved professional development expenses, up to $1500 per employee per year.
